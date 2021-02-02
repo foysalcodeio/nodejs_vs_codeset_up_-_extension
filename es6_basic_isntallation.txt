@@ -62,6 +62,9 @@ package.json
 </html>
 
 12. npm run dev
+Setup Webpack Dev Server
+-----------------
+14. npm install -D webpack-dev-server
 
 
 
