@@ -1,7 +1,14 @@
+/*{
+  "window.zoomLevel": 1,
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "tabnine.experimentalAutoImports": true,
+  "workbench.editor.enablePreview": false,
+  "workbench.colorTheme": "Default High Contrast"
+}
+*/
 {
   // editor
   "editor.fontSize": 20,
-  "editor.fontFamily": "Fira Code, Operator Mono",
   "editor.fontLigatures": true,
   "editor.wordWrap": "on",
   "editor.minimap.enabled": false,
@@ -35,10 +42,10 @@
   "eslint.alwaysShowStatus": true,
   "prettier.disableLanguages": ["javascript", "javascriptreact"],
   //terminal
-  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontSize": 20,
   "terminal.integrated.fontWeight": "normal",
   "terminal.integrated.fontFamily": "Fira Code, Operator Mono",
-  "workbench.colorTheme": "Community Material Theme Darker High Contrast",
+  "workbench.colorTheme": "Default High Contrast",
   "workbench.iconTheme": "vscode-icons",
   // terminal customization
   "workbench.colorCustomizations": {
@@ -62,5 +69,7 @@
     "terminal.ansiRed": "#FB543F",
     "terminal.ansiWhite": "#A89984",
     "terminal.ansiYellow": "#FAC03B"
-  }
+  },
+  "tabnine.experimentalAutoImports": true,
+  "window.zoomLevel": 0
 }
