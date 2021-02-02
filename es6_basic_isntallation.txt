@@ -65,6 +65,10 @@ package.json
 Setup Webpack Dev Server
 -----------------
 14. npm install -D webpack-dev-server
+and edit package.json file
+add this scritp: "start": "webpack-dev-server -d"
+and add webpack.config.js : publicPath: '/dist' // output e
+npm start
 
 
 
